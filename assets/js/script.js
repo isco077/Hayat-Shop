@@ -50,7 +50,7 @@ for (let i = 0; i < mobileMenuOpenBtn.length; i++) {
 
   mobileMenuCloseBtn[i].addEventListener('click', mobileMenuCloseFunc);
   overlay.addEventListener('click', mobileMenuCloseFunc);
-
+o
 }
 
 
